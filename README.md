@@ -31,6 +31,7 @@ $ git clone https://github.com/wilson-faustino/pure-css-responsive-restaurant-we
 |:---------------:|:---------------------------------:|:-------------------------------------------------------------------:|
 | Responsiveness  | desktop first; 3 breakpoints.     | https://tableless.com.br/introducao-sobre-media-queries/            |
 | CSS             | flex box                          | https://css-tricks.com/snippets/css/a-guide-to-flexbox/             |
+|                 | calc()                            | https://www.maujor.com/tutorial/css3-funcao-css-calc.php            |
 |                 | transition                        | https://zellwk.com/blog/css-transitions/                            |
 |                 | transform: translate              | https://www.quackit.com/css/functions/css_translate_function.cfm    |
 | No Javascript   | CSS :checked pseudo-class         | https://css-tricks.com/almanac/selectors/c/checked/                 |
